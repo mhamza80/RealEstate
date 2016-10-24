@@ -1,0 +1,97 @@
+.form{
+		margin:0 auto;
+		width:800px;
+		font-weight:700;
+		direction:rtl;	
+	}
+	
+	.form .middle{
+		text-align:center;
+		font-weight:bold;	
+	}
+
+	.form .logo{
+		width:100px;
+		height:100px;
+		margin:0 auto;
+		display:block;	
+	}
+	
+	.form .field{
+		widows:200px;
+	}
+	
+	.form .input{
+		float:left;
+		width:130px;
+		margin:0 0 5px 5px;
+		border:none;
+		border-bottom:1px solid #999;
+	}
+	
+	.form .inputL{
+		float:right;
+		width:135px;
+		margin:5px 5px 0 0;
+		direction:ltr;
+		border:none;
+		border-bottom:1px solid #999;;
+	}
+	
+	.form .labelL{
+		float:left;
+		direction:ltr;
+		margin:5px 0 0 0;
+	}
+	
+	.form .fullInputSize{
+		width:98%;
+		display:block;
+		margin:0 auto;
+		border:none;
+		border-bottom:1px solid #999;
+	}
+	
+	.form .labelDL{
+		direction:ltr;
+		float:right;
+	}
+	
+	.form .label{
+		float:right;
+		margin:0 0 5px 0;
+	}
+	
+	.form .fullLabelSize{
+		width:30%;
+		display:block;
+		margin:0 auto;
+	}
+	
+	.form .smallInputSize{
+		width:80%;
+		display:block;
+		margin:0 auto;
+		height:30px;
+		border:none;
+		border-bottom:1px solid #999;
+	}
+	
+	.form .smallLabelSize1{
+		display: block;
+		margin: 0 auto;
+		width: 55%;
+		direction:ltr;
+	}
+	
+	.form .smallLabelSize{
+		display: block;
+		margin: 0 auto;
+		width: 27%;
+		direction:ltr;
+	}
+	#rem{
+	margin-left:43px;
+	}
+	
+	

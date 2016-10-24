@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin-left: 0px;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.tit {
+	font-family: "Traditional Arabic", "Simplified Arabic";
+	font-size: 24px;
+	line-height: 22px;
+	font-style: normal;
+	font-weight: bold;
+}
+.titen {
+	font-family: "Traditional Arabic", "Simplified Arabic";
+	font-size: 20px;
+	line-height: 22px;
+	font-style: normal;
+	font-weight: bold;
+}
+.tit_sub {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+	line-height: 16px;
+}
+
+.tab{
+	
+	border-bottom:solid;
+	border-right:solid;
+	border-top:solid;
+	border-left:solid;
+	
+	
+	}
+	
+#hor
+{
+	width: 200px;
+	height: 1px;
+	position: relative;
+	top: 5px;
+	left: 5px;
+	right: 0px;
+}
+#hor2
+{
+	width: 640px;
+	height: 1px;
+	position: relative;
+	top: 5px;
+	left: 5px;
+	right: 0px;
+}
+#hor3
+{
+	width: 780px;
+	height: 1px;
+	position: relative;
+	top: 5px;
+	left: 5px;
+	right: 0px;
+}
+#hor4
+{
+	width: 150px;
+	height: 1px;
+	position: relative;
+	top: 5px;
+	left: 5px;
+	right: 0px;
+}
+#hor5
+{
+	width: 150px;
+	height: 1px;
+	position: relative;
+	top: 5px;
+	left: 5px;
+	right: 0px;
+}
+#hor6
+{
+	width: 150px;
+	height: 1px;
+	position: relative;
+	top: 5px;
+	left: 5px;
+	right: 0px;
+}

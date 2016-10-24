@@ -1,0 +1,203 @@
+----------------------------------------------------------- */
+html
+{
+	height: 100%;  
+}
+body
+{
+	margin: 0;
+	direction:rtl;
+	padding: 0;
+	background-image: url("../images/background.png");
+	font:normal 12px Tahoma;
+}
+
+
+#navtap {
+
+margin:0 auto;
+width:400px;
+}
+
+#navtap ul {
+
+list-style-type:none;
+
+}
+
+#navtap ul li {
+background:#eee;width:100px;
+padding:5px;
+text-align:center;
+	border-radius: 5px;
+-moz-border-radius: 5px;
+border:1px solid #ccc;
+
+}
+#navtap ul li a {
+text-decoration:none;
+
+}
+
+#logo {
+margin:10px auto;
+width:360px;
+}
+
+
+
+#ss{
+	background:#3177ad; 
+border:1px solid #ccc;
+width:100px;
+margin-left:70px;
+font:normal 12px Tahoma;
+	border-radius: 5px;
+-moz-border-radius: 5px;
+border:1px solid #ccc;
+height:20px;
+color:#fff;
+cursor:pointer;}
+
+#ss:hover {
+background:#333; 
+
+}
+
+#name , #password , #email {
+cursor:text; 
+background:none;
+float:left;
+	border-radius: 5px;
+-moz-border-radius: 5px;
+border:1px solid #ccc;
+height:20px;
+width:190px;
+margin-left:70px;
+margin-top:1px;
+font:normal 12px Tahoma;
+color:#333;
+
+}
+
+form { 
+	background:#eee;
+	border-radius: 10px;
+-moz-border-radius: 10px;
+background: white url("../images/hy.gif")  4% 0 no-repeat;
+margin:5px;
+padding:5px;
+padding-bottom:20px;
+border:1px solid #ccc;
+height:auto;
+}
+
+
+
+#container {
+	position: relative;
+	
+	
+	
+	height: 640px;
+}
+.login_form{
+	width:400px;
+	height:auto;
+	margin:0 auto;
+	background:#fff;
+	border-radius: 15px;
+-moz-border-radius: 15px;
+border:1px solid #aaaaaa;
+
+padding:5px;
+-moz-box-shadow: 0px 0px 25px #7c7c7c;
+-webkit-box-shadow:0px 0px 25px #7c7c7c;
+box-shadow: 0px 0px 25px #7c7c7c;
+	}
+	
+.login_from input
+{
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-color: #B3B3B3 #EAEAEA #EAEAEA #B3B3B3;
+    border-style: solid;
+    border-width: 1px;
+    color: #000000;
+    font-family: Lucida Grande,Verdana,Lucida Sans Regular,Lucida Sans 
+}
+
+ 
+ .info, .success, .warning, .error, .validation {
+border: 1px solid;
+margin: 10px 0px;
+padding:15px 10px 15px 50px;
+background-repeat: no-repeat;
+background-position: 10px center;
+}
+.error {margin:3px auto;
+color: #D8000C;
+width:310px;
+background-color: #fff;
+background-image: url("../images/error.png");
+	border-radius: 5px;
+-moz-border-radius: 5px;
+
+}
+
+.success {margin:3px auto;
+
+color: #4F8A10;
+	border-radius: 5px;
+-moz-border-radius: 5px;
+width:300px;
+background-color: #fff;
+background-image:url("../images/success.png");
+}
+
+.login_form div.title , h1 {
+    background:#eee url('../images/workerz.gif') 95% 50% no-repeat;
+		border-radius: 10px;
+-moz-border-radius: 10px;
+border:1px solid #aaaaaa;
+
+    clear: both;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 5px;
+    position: relative;
+    width: 370px;
+	height:30px;text-indent:50px;
+line-height:35px;
+font:bold 18px Arial;
+color:#333;
+text-shadow:#fff 1px 1px 1px;
+}
+
+.login_form div.title h5 {
+font:bold 18px Arial;
+display:inline;
+color:#333;
+text-shadow:#fff 1px 1px 1px;
+
+}
+
+a {font:normal 12px Tahoma;
+color:#333;}
+
+
+a:hover {font:normal 12px Tahoma;
+color:#3177ad;}
+
+#footer {
+
+    padding: 20px;
+	margin:0 auto;
+	color:#717171;
+	width:400px;
+
+	text-align:center;
+	
+}
+
+fieldset {border:1px solid #ccc;	border-radius: 5px;
+-moz-border-radius: 5px;}

@@ -1,0 +1,47 @@
+#worker-info ul li {
+    border-bottom: 1px solid #CCCCCC;
+    float: right;
+    font: 12px Tahoma;
+    margin-bottom: 5px;
+    margin-left: 14px;
+    padding: 8px;
+    width: 215px;
+}
+strong {
+    color: #CC0000;
+    font-weight: normal;
+}
+#worker-info {
+    float: right;
+}
+#worker-info a {
+    color: #FFFFFF;
+    float: right;
+    font: 12px Tahoma;
+    margin: 5px;
+    padding: 2px 20px;
+    text-decoration: none;
+}
+	
+	    #back {
+        margin-right:10px;
+	background-color: #aaa ;
+text-shadow: 0 1px 0 rgba(0, 0, 0, .45);
+-moz-box-shadow: inset 0 1px 0 rgba(255,255,255,.45);
+-ms-box-shadow: inset 0 1px 0 rgba(255,255,255,.45);
+-webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.45);
+box-shadow: inset 0 1px 0 rgba(255,255,255,.45);
+filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#666,EndColorStr=#666);
+background-image: -moz-linear-gradient(top,#666 0,#aaa 100%);
+background-image: -ms-linear-gradient(top,#666 0,#aaa  100%);
+background-image: -o-linear-gradient(top,#666 0,#aaa  100%);
+background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0,#aaa),color-stop(100%,#666));
+background-image: -webkit-linear-gradient(top,#aaa 0,#666 100%);
+background-image: linear-gradient(to bottom,#aaa 0,#666 100%);
+border:1px solid #fff;
+outline:1px solid #ccc;
+	padding:10px;
+	margin-left:10px;
+	
+	
+	}

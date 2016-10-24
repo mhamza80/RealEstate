@@ -1,0 +1,124 @@
+@media print {
+	
+
+.form {
+		margin:0 auto;
+		width:750px;
+		font-weight:700;
+		direction:rtl;	
+	}
+	
+	.middle {
+		font-size:14px;
+		vertical-align:top;	
+	}
+	
+	.form label {
+		font-size:11px;
+		font-weight:bold;
+		width:auto;	
+	}
+	
+	.form .middle{
+		text-align:center;
+		font-weight:bold;
+		align:center;	
+	}
+
+	.form .logo{
+		width:100px;
+		height:80px;
+		margin:0 auto;
+		display:block;	
+	}
+	
+	.form .field{
+		widows:200px;
+	}
+	
+	.form .input{
+		float:left;
+		width:130px;
+		margin:0 0 5px 5px;
+		border:none;
+		
+	}
+	
+	.form .input1{
+		width:120px;
+		margin:0 0 0 0px;
+		border:none;
+		
+	}
+	
+	.form .inputL{
+		float:right;
+		width:135px;
+		margin:0px 0px 0 0;
+		direction:rlt;
+		border:none;
+		border-bottom:1px solid #999;
+		
+	}
+	
+	.form .labelL{
+		float:left;
+		direction:ltr;
+		margin:5px 0 0 0;
+	}
+	
+	.form .fullInputSize{
+		width:98%;
+		display:block;
+		margin:0 auto;
+		border:none;
+		
+	}
+	
+	.form .labelDL{
+		direction:ltr;
+		float:right;
+	}
+	
+	.form .label{
+		float:right;
+		margin:0 0 5px 0;
+	}
+	
+	.form .fullLabelSize{
+		width:30%;
+		display:block;
+		margin:0 auto;
+	}
+	
+	.form .smallInputSize{
+		width:80%;
+		display:block;
+		margin:0 auto;
+		height:30px;
+		border:none;
+		
+	}
+	
+	.form .smallLabelSize1{
+		display: block;
+		margin: 0 auto;
+		width: 55%;
+		direction:ltr;
+	}
+	
+	.form .smallLabelSize{
+		display: block;
+		margin: 0 auto;
+		width: 27%;
+		direction:ltr;
+	}
+	
+	.form .labelMidlle{
+		width=750;
+		display:block;
+		text-align:center;
+		font-size:16px;
+		font-weight:bold;	
+	}
+}
